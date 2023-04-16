@@ -23,38 +23,25 @@ export default function Footer() {
                 <a className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
                   <span>
                     <img
-                      src="/img/logo.svg"
+                      src="/img/med_log.png"
                       alt="N"
                       width="32"
                       height="32"
                       className="w-8"
                     />
                   </span>
-                  <span>Nextly</span>
+                  <span>Medsway</span>
                 </a>
               </Link>
             </div>
 
             <div className="max-w-md mt-4 text-gray-500 dark:text-gray-400">
-              Nextly is a free landing page & marketing website
-              template for startups and indie projects. Its built with
-              Next.js & TailwindCSS. And its completely open-source.
+              Medsway is founded by leading practioners from medical
+              industry and seasoned entreprenuer from world class business 
+              school. Founded in 2020, the firm is backed by angel investors.
             </div>
 
             <div className="mt-5">
-              <a
-                href="https://vercel.com/?utm_source=web3templates&utm_campaign=oss"
-                target="_blank"
-                rel="noopener"
-                className="relative block w-44">
-                <Image
-                  src="/img/vercel.svg"
-                  layout="responsive"
-                  alt="Powered by Vercel"
-                  width="212"
-                  height="44"
-                />
-              </a>
             </div>
           </div>
 
